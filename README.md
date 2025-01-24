@@ -2,6 +2,8 @@
 <h3 align="center">Desenvolvedor Web Front-End</h3>
 <p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h3 align="left">Se conecte comigo!</h3>
 <p align="left">
 
