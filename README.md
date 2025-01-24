@@ -7,7 +7,7 @@
 <h3 align="left">Se conecte comigo!</h3>
 <p align="left">
 
-<a href="https://linktr.ee/hugo_alb93" target="_blank" text-decoration="none">
+<a href="https://linktr.ee/hugo_alb93" target="_blank">
 <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/linktree-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-golden-pack-icons-9791611.png?f=webp" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="40" width="40" /></a>
 </p>
 
@@ -15,7 +15,7 @@
 <p align="left"> 
 
 <!-- HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" text-decoration="none"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!-- CSS3 -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
