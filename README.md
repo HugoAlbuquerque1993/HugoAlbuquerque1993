@@ -4,7 +4,7 @@
 <h3 align="left">Se conecte comigo!</h3>
 <p align="left">
 <a href="https://linktr.ee/hugo_alb93" target="_blank">
-<img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/linktree-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-pack-icons-9336266.png" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="40" width="40" /></a>
+<img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/linktree-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-golden-pack-icons-9791611.png?f=webp" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
