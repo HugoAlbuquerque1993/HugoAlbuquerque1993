@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.element8.sa/_next/image?url=%2Fimages%2Fnext-banner-01.png&w=1920&q=75" alt="nextjs" width="40" height="40"/> </a> 
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
 <br>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
