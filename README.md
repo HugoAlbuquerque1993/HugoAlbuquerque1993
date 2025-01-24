@@ -1,8 +1,3 @@
-'''css
-    .no-underline {
-        text-decoration: none;
-    }
-'''
 <h1 align="center">Olá 👋, me chamo Hugo Albuquerque</h1>
 <h3 align="center">Desenvolvedor Web Front-End</h3>
 <p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
@@ -12,7 +7,7 @@
 <h3 align="left">Se conecte comigo!</h3>
 <p align="left">
 
-<a href="https://linktr.ee/hugo_alb93" target="_blank">
+<a href="https://linktr.ee/hugo_alb93" target="_blank" text-decoration="none">
 <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/linktree-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-golden-pack-icons-9791611.png?f=webp" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="40" width="40" /></a>
 </p>
 
