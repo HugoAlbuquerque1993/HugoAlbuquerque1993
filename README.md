@@ -1,10 +1,8 @@
-<head>
-    <style>
-        .no-underline {
-            text-decoration: none;
-        }
-    </style>
-</head>
+'''css
+    .no-underline {
+        text-decoration: none;
+    }
+'''
 <h1 align="center">Olá 👋, me chamo Hugo Albuquerque</h1>
 <h3 align="center">Desenvolvedor Web Front-End</h3>
 <p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
