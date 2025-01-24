@@ -2,9 +2,9 @@
 <h3 align="center">Desenvolvedor Web Front-End</h3>
 <p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<h3 align="left">Se conecte comigo!</h3>
+<h3 align="left">Links de Contato e Projetos:</h3>
 <p align="left">
 
 <a href="https://linktr.ee/hugo_alb93" target="_blank">
@@ -29,22 +29,22 @@
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://teamraft.com/wp-content/uploads/nextjs.jpg" alt="nextjs" width="40" height="40"/> </a> 
-<br>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <!--  -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-
+<!-- Tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
+<!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hugoalbuquerque1993"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hugoalbuquerque1993" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/hugoalbuquerque1993"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hugoalbuquerque1993" /></a></p><br><br>
