@@ -1,6 +1,6 @@
 <head>
     <style>
-        a {
+        .no-underline {
             text-decoration: none;
         }
     </style>
