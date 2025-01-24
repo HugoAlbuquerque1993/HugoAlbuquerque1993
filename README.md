@@ -3,7 +3,8 @@
 <p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
 <h3 align="left">Se conecte comigo!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="30" width="40" /></a>
+<a href="https://linktr.ee/hugo_alb93" target="blank">
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://www.linkedin.com/in/hugoalbuquerque1993-1a0846262/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
