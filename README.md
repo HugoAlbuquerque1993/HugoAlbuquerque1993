@@ -23,31 +23,30 @@
 <!-- CSS3 -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<br>
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
+<!-- Tailwind -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img title="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img title="NextJS" src="https://teamraft.com/wp-content/uploads/nextjs.jpg" alt="nextjs" width="40" height="40"/> </a> 
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!--  -->
+<!-- SASS -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<!-- Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img title="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/hugoalbuquerque1993"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hugoalbuquerque1993" /></a></p><br><br>
