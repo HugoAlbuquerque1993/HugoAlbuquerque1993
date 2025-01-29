@@ -35,6 +35,9 @@
 <!-- NextJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img title="NextJS" src="https://teamraft.com/wp-content/uploads/nextjs.jpg" alt="nextjs" width="40" height="40"/> </a> 
+<!-- Vite -->
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
+<img title="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="nextjs" width="40" height="40"/> </a> 
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
