@@ -1,6 +1,10 @@
 <h1 align="center">Olá 👋, me chamo Hugo Albuquerque</h1>
 <h3 align="center">Desenvolvedor Web Front-End</h3>
-<p> Bem-vindo! Sou estudante e entusiasta da área de programação, atualmente focado no desenvolvimento web Front-End.</p>
+<p>
+    Desenvolvedor Front-End apaixonado por criar experiências digitais inovadoras. Desde meus 14 anos trabalho com tecnologia, agora estou desenvolvendo aplicativos e está sendo incrível! Com uma base bem sólida em HTML, CSS e JavaScript, tenho experiência em desenvolvimento de aplicações web responsivas utilizando React.
+ 
+    Ao longo da minha trajetória, aprimorei minhas habilidades em comunicação e trabalho em equipe. Resolvi vários desafios de desenvolvimento, entregando soluções que superaram as expectativas. Sou movido pelo desafio de aprender novas tecnologias e contribuir para o crescimento da empresa e da equipe.
+</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
@@ -12,7 +16,7 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+<p align="left">
 
 <!-- HTML5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" text-decoration="none"> 
